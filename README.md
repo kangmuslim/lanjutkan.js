@@ -1,0 +1,2 @@
+# lanjutkan.js
+lanjutkan
